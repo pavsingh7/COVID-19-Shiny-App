@@ -3,12 +3,13 @@
 #/&^%$#@-)+#4582*39)@(*#>) Pavan Singh #/&^%$#@-)+#4582*39)@(*#>)
 #/&^%$#@-)+#4582*39)@(*#>)#/&^%$#@-)+#4582*39)@(*#>)#/&^%$#@-)+#4
 
-# load libraryies and packages used
+# load libraries and packages used
 library(shiny) # for deployment and converting to HTML
 library(ggplot2) # plotting
-library(shinythemes) # package  extending shiny capabilities
+library(shinythemes) # package extending shiny capabilities
 library(plotly) # graphing / plotting
 # thematic package which automatically themes ggplot2, lattice, and base plots
+
 
 
 # source() causes R to accept its input from the named file
