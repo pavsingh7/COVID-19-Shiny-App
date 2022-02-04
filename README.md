@@ -25,7 +25,7 @@ Open files in an IDE with support for R Programming, preferably RStudio. Hit **R
 
 [Pavan Singh](http://t3.gstatic.com/licensed-image?q=tbn:ANd9GcRUuKx1hJ0XkC4jLpJ82ippSXrCKOe6KMLywy-gOMVh5fhP8VyrocTShDD7hg75Jxy1x-czsgDDglBPs2EN620)
 
-[Msc Advanced Analytics](http://www.stats.uct.ac.za/)
+[MSc Advanced Analytics](http://www.stats.uct.ac.za/)
 
 [Twitter](https://twitter.com/notveryDalai)
 
