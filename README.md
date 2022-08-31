@@ -1,8 +1,4 @@
-# RShiny-Tutorial-and-Web-Apps
-
-A collection of various shiny web applications. The description of each file is discussed as well as a screenshot of the application. 
-
-## Projects
+# COVID-19 Shiny Application
 
 1. ***Covid-19 Interactive Map***
 
