@@ -27,6 +27,9 @@ Open files in an IDE with support for R Programming, preferably RStudio. Hit **R
 
 [LinkedIn](https://www.linkedin.com/in/pavan-s-44501789/)
 
+# Side Notes
+
+Some the data has not beed updated since a certain time.
 
 ## Acknowledgments
 
